@@ -1,0 +1,56 @@
+{
+  "English_Set_1": [
+    {
+      "sentence_template": "Will the boy who <mask1> go up the street <mask2> run or walk?",
+      "options": [
+        "will",
+        "may",
+        ""
+      ],
+      "correct_pattern": {
+        "<mask1>": "will",
+        "<mask2>": ""
+      },
+      "comment": "Correct inversion with auxiliary from matrix clause"
+    },
+    {
+      "sentence_template": "Will the boy who <mask1> go up the street <mask2> run or walk?",
+      "options": [
+        "will",
+        "may",
+        ""
+      ],
+      "correct_pattern": {
+        "<mask1>": "",
+        "<mask2>": "will"
+      },
+      "comment": "No inversion – incorrect"
+    }
+  ],
+  "Norwegian_Set_2": [
+    {
+      "sentence_template": "Spiste mannen som <mask1> fisk <mask2> gulerøtter?",
+      "options": [
+        "likte",
+        ""
+      ],
+      "correct_pattern": {
+        "<mask1>": "likte",
+        "<mask2>": ""
+      },
+      "comment": "Korrekt inversjon, riktig plassering av bisetningsverb"
+    },
+    {
+      "sentence_template": "Spiste mannen som <mask1> fisk <mask2> gulerøtter?",
+      "options": [
+        "likte",
+        ""
+      ],
+      "correct_pattern": {
+        "<mask1>": "",
+        "<mask2>": "likte"
+      },
+      "comment": "Feil struktur – verb i hovedledd uten inversjon"
+    }
+  ]
+}

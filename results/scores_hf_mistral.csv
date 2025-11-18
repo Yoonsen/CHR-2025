@@ -1,0 +1,11 @@
+id,lang,sentence,condition,grammatical,source,hf_mistral_score
+1a,no,Hvilken artikkel kastet du uten å lese,both open,True,parasitic gaps,1.
+1b,no,Hvilken artikkel kastet du uten å lese den,parasitic plugged,True,parasitic gaps,I'd
+1c,no,Hvilken artikkel kastet du den uten å lese,licensing plugged,False,parasitic gaps,1.
+1d,no,Hvilken artikkel kastet du den uten å lese den,both plugged,True,parasitic gaps,I'd
+1a,en,Which article did you throw away without reading,both open,True,parasitic gaps,1.
+1b,en,Which article did you throw away without reading it,parasitic plugged,True,parasitic gaps,1.
+1c,en,Which article did you throw it away without reading,licensing plugged,False,parasitic gaps,1.
+1d,en,Which article did you throw it away without reading it,both plugged,True,parasitic gaps,1.
+2a,no,Hvilket rom ryddet han før han malte,both open,True,parasitic gaps,I'd
+2b,no,Hvilket rom ryddet han før han malte det,parasitic plugged,True,parasitic gaps,I'd

@@ -1,0 +1,90 @@
+,keyword,code,sentence,tense
+0,organization,lp-e-b,You donated money to UNICEF because you believed in them.,past
+1,organization,lp-e-0,Which organization did you donate money to because you believed in?,past
+2,organization,lp-e-2,Which organization did you donate money to because you believed in it?,past
+3,organization,lp-e-1,Which organization did you donate money to it because you believed in?,past
+4,organization,lp-e-3,Which organization did you donate money to it because you believed in it?,past
+5,,,,
+6,organization,lp-n-2,Hvilken organisasjon donerte du penger til fordi du trodde på den?,past
+7,organization,lp-n-1,Hvilken organisasjon donerte du penger til den fordi du trodde på?,past
+8,organization,lp-n-3,Hvilken organisasjon donerte du penger til den fordi du trodde på den?,past
+9,organization,lp-n-0,Hvilken organisasjon donerte du penger til fordi du trodde på?,past
+10,organization,lp-n-b,Du donerte penger til Frelsesarmeen fordi du trodde på den.,past
+11,,,,
+12,,,,
+13,cod,lp-e-0,Which type of cod did John weigh before slaying?,inf
+14,cod,lp-e-1,Which type of cod did John weigh it before slaying?,inf
+15,cod,lp-e-3,Which type of cod did John weigh it before slaying it?,inf
+16,cod,lp-e-2,Which type of cod did John weigh before slaying it?,inf
+17,cod,lp-e-b,John weighed this type of cod before slaying it.,inf
+18,,,,
+19,cod,lp-n-0,Hva slags torsk pleier Ola å veie for å gjette vekten av?,inf
+20,cod,lp-n-2,Hva slags torsk pleier Ola å veie for å gjette vekten av den?,inf
+21,cod,lp-n-1,Hva slags torsk pleier Ola å veie den for å gjette vekten av?,inf
+22,cod,lp-n-3,Hva slags torsk pleier Ola å veie den for å gjette vekten av den?,inf
+23,cod,lp-n-b,Ola pleier å veie denne type torsk for å gjette vekten av den.,inf
+24,,,,
+25,,,,
+26,,,,
+27,dog,pl-e-0,The German Shepherd is exactly the kind of dog which everyone who owns often takes to the vet.,
+28,dog,pl-e-1,The German Shepherd is exactly the kind of dog which everyone who owns it often takes to the vet.,
+29,dog,pl-e-3,The German Shepherd is exactly the kind of dog which everyone who owns it often takes it to the vet.,
+30,dog,pl-e-2,The German Shepherd is exactly the kind of dog which everyone who owns often takes it to the vet.,
+31,dog,pl-e-b,Everyone who owns a German Shepherd often takes it to the vet.,
+32,,,,
+33,dog,pl-n-0,Border collien er akkurat den type hund som alle som eier tar med til veterinæren.,
+34,dog,pl-n-1,Border collien er akkurat den type hund som alle som eier den tar med til veterinæren.,
+35,dog,pl-n-2,Border collien er akkurat den type hund som alle som eier tar den med til veterinæren.,
+36,dog,pl-n-3,Border collien er akkurat den type hund som alle som eier den tar den med til veterinæren.,
+37,dog,pl-n-b,Alle som eier en Border Collie tar den med til veterinæren.,
+38,,,,
+39,problem,pl-e-0,This is a problem that everyone who studies spends hours trying to solve.,
+40,problem,pl-e-1,This is a problem that everyone who studies it spends hours trying to solve.,
+41,problem,pl-e-2,This is a problem that everyone who studies spends hours trying to solve it.,
+42,problem,pl-e-3,This is a problem that everyone who studies it spends hours trying to solve it.,
+43,problem,pl-e-b,Everyone who studies it spends hours trying to solve it.,
+44,,,,
+45,problem,pl-n-0,Det her er et problem som alle som studerer tilbringer timer med å løse.,
+46,problem,pl-n-1,Det her er et problem som alle som studerer det tilbringer timer med å løse.,
+47,problem,pl-n-2,Det her er et problem som alle som studerer tilbringer timer med å løse det.,
+48,problem,pl-n-3,Det her er et problem som alle som studerer det tilbringer timer med å løse det.,
+49,problem,pl-n-b,Alle som studerer det her problemet tilbringer timer med å løse det.,
+50,,,,
+51,,,,
+52,,,,
+53,war,lp-n-0,Hvem fortalte du om krigen uten å vite var sjøfolk.,inf
+54,war,lp-n-2,Hvem fortalte du om krigen uten å vite de var sjøfolk.,inf
+55,war,lp-n-1,Hvem fortalte du dem om krigen uten å vite var sjøfolk.,inf
+56,war,lp-n-3,Hvem fortalte du dem om krigen uten å vite de var sjøfolk.,inf
+57,war,lp-n-b,Du fortalte dem om krigen uten å vite de var sjøfolk.,inf
+58,,,,
+59,war,lp-e-0,Who did you tell about the war without knowing were veterans.,inf
+60,war,lp-e-2,Who did you tell about the war without knowing they were veterans.,inf
+61,war,lp-e-1,Who did you tell them about the war without knowing were veterans.,inf
+62,war,lp-e-3,Who did you tell them about the war without knowing they were veterans.,inf
+63,war,lp-e-b,You told them about the war without knowing they were veterans.,inf
+64,stretch,pl-n-0,Her er himmelen mannen som ville klippe opp prøver å knuse i tusen biter.,
+65,stretch,pl-n-1,Her er himmelen mannen som ville klippe den opp prøver å knuse i tusen biter.,
+66,stretch,pl-n-2,Her er himmelen mannen som ville klippe opp prøver å knuse den i tusen biter.,
+67,stretch,pl-n-3,Her er himmelen mannen som ville klippe den opp prøver å knuse den i tusen biter.,
+68,stretch,pl-n-b,Mannen som ville klippe opp himmelen prøver å knuse den i tusen biter.,
+69,stretch,pl-e-0,This is the sky which the man who would cut up tries to shatter into pieces.,
+70,stretch,pl-e-1,This is the sky which the man who would cut it up tries to shatter into pieces.,
+71,stretch,pl-e-2,This is the sky which the man who would cut up tries to shatter it into pieces.,
+72,stretch,pl-e-3,This is the sky which the man who would cut it up tries to shatter it into pieces.,
+73,stretch,pl-e-b,The man who would cut up the sky tries to shatter it into pieces.,
+74,fruit,lp-e-0,Which apples did she pick before she cleaned?,past
+75,fruit,lp-e-2,Which apples did she pick before she cleaned them?,past
+76,fruit,lp-e-1,Which apples did she pick them before she cleaned?,past
+77,cities,lp-e-0,Which cities did she visit before she studied?,past
+78,cities,lp-e-2,Which cities did she visit before she studied them?,past
+79,cities,lp-e-1,Which cities did she visit them before she studied?,past
+80,emails,lp-e-0,Which emails does he answer before he reads?,present
+81,emails,lp-e-2,Which emails does he answer before he reads them?,present
+82,emails,lp-e-1,Which emails does he answer them before he reads?,present
+83,books,lp-e-0,Which books do they shelve before they categorize?,present
+84,books,lp-e-2,Which books do they shelve before they categorize them?,present
+85,books,lp-e-1,Which books do they shelve them before they categorize?,present
+86,letters,lp-e-0,Which letters did he write before he mailed?,past
+87,letters,lp-e-2,Which letters did he write before he mailed them?,past
+88,letters,lp-e-1,Which letters did he write them before he mailed?,past

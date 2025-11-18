@@ -1,0 +1,63 @@
+,id,sentence_x,lang_y,score,gpt-4_score,grammatical,diff
+0,1a,Which article did you throw away without reading,en,5,5,True,0
+1,1a,Hvilken artikkel kastet du uten å lese,no,5,5,True,0
+2,1b,Which article did you throw away without reading it,en,4,4,True,0
+3,1b,Hvilken artikkel kastet du uten å lese den,no,5,5,True,0
+4,1c,Which article did you throw it away without reading,en,2,1,False,1
+5,1c,Hvilken artikkel kastet du den uten å lese,no,4,2,False,2
+6,1d,Which article did you throw it away without reading it,en,2,1,True,1
+7,1d,Hvilken artikkel kastet du den uten å lese den,no,5,1,True,4
+8,2a,Which room did he clean before painting,en,4,5,True,-1
+9,2a,Hvilket rom ryddet han før han malte,no,5,5,True,0
+10,2b,Which room did he clean before painting it,en,5,5,True,0
+11,2b,Hvilket rom ryddet han før han malte det,no,5,5,True,0
+12,2c,Which room did he clean it before painting,en,2,1,False,1
+13,2c,Hvilket rom ryddet han det før han malte,no,5,1,False,4
+14,2d,Which room did he clean it before painting it,en,2,1,True,1
+15,2d,Hvilket rom ryddet han det før han malte det,no,5,1,True,4
+16,3a,Ola is a man who everyone who plays chess with ends up liking,en,4,5,True,-1
+17,3a,Ola er en mann som alle som spiller sjakk med ender opp med å like,no,5,5,True,0
+18,3b,Ola is a man who everyone who plays chess with him ends up liking,en,4,3,True,1
+19,3b,Ola er en mann som alle som spiller sjakk med ham ender opp med å like,no,5,5,True,0
+20,3c,Ola is a man who everyone who plays chess with ends up liking him,en,2,2,False,0
+21,3c,Ola er en mann som alle som spiller sjakk med ender opp med å like ham,no,4,2,False,2
+22,3d,Ola is a man who everyone who plays chess with him ends up liking him,en,2,2,True,0
+23,3d,Ola er en mann som alle som spiller sjakk med ham ender opp med å like ham,no,5,2,True,3
+24,atb1,Who did you say that Kari likes and Per hates,en,5,5,True,0
+25,atb1,Hvem sa du at Kari liker og Per hater,no,5,1,True,4
+26,atb2,What do you think he brought and placed in the car,en,4,5,True,-1
+27,atb2,Hva tror du at han tok med seg og la i bilen,no,5,5,True,0
+28,atb3,Which book did she say she bought and read on the train,en,5,5,True,0
+29,atb3,Hvilken bok sa hun at hun kjøpte og leste på toget,no,5,5,True,0
+30,atb4,Who did you say that Kari likes Per and hates Marit,en,2,4,False,-2
+31,atb4,Hvem sa du at Kari liker Per og hater Marit,no,5,5,False,0
+32,atb5,What do you think he brought the camera and placed in the car,en,2,2,False,0
+33,atb5,Hva tror du at han tok med seg kameraet og la i bilen,no,5,5,False,0
+34,atb6,Which book did she say she bought and read the newspaper on the train,en,1,2,False,-1
+35,atb6,Hvilken bok sa hun at hun kjøpte og leste avisen på toget,no,2,2,False,0
+36,lbe1,Who do you believe he sold pictures of,en,4,5,True,-1
+37,lbe1,Hvem tror du at han solgte bilder av,no,2,5,True,-3
+38,lbe2,Who did she say they painted a portrait of,en,5,5,True,0
+39,lbe2,Hvem sa hun at de malte et portrett av,no,2,5,True,-3
+40,lbe3,Who do you believe pictures of will be on sale,en,4,2,False,2
+41,lbe3,Hvem tror du at bilder av vil bli lagt ut for salg,no,2,1,True,1
+42,lbe4,Who did she say portraits of hung in the gallery,en,4,2,False,2
+43,lbe4,Hvem sa hun at portretter av hang i galleriet,no,2,1,True,1
+44,rel1,The man who has eaten dinner will leave soon,en,5,5,True,0
+45,rel1,Mannen som spiste middag reiste hjem,no,5,5,True,0
+46,rel2,Has the man who eaten dinner will leave soon,en,1,1,False,0
+47,rel2,Spiste mannen som middag reiste hjem,no,2,1,False,1
+48,rel3,Will the man who has eaten dinner leave soon,en,5,5,True,0
+49,rel3,Reiste mannen som spiste middag hjem,no,5,2,True,3
+50,rel4,The woman who had read the book might go to the library,en,5,5,True,0
+51,rel4,Kvinnen som leste boka dro til biblioteket,no,5,5,True,0
+52,rel5,Had the woman who read the book might go to the library,en,1,1,False,0
+53,rel5,Leste kvinnen som boka dro til biblioteket,no,1,1,False,0
+54,rel6,Might the woman who had read the book go to the library,en,5,5,True,0
+55,rel6,Dro kvinnen som leste boka til biblioteket,no,1,2,True,-1
+56,rel7,The boy who has seen the movie will go home,en,5,5,True,0
+57,rel7,Gutten som så filmen gikk hjem,no,5,5,True,0
+58,rel8,,en,1,1,False,0
+59,rel8,Så gutten som filmen gikk hjem,no,1,1,False,0
+60,rel9,Will the boy who has seen the movie go home,en,5,5,True,0
+61,rel9,Gikk gutten som så filmen hjem,no,2,5,True,-3

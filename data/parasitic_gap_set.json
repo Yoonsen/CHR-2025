@@ -1,0 +1,46 @@
+{
+  "English_ParasiticGaps": [
+    {
+      "sentence": "Which articles did the editor file __ without reading __?",
+      "gramm": 5,
+      "note": "Classic parasitic gap; both gaps licensed"
+    },
+    {
+      "sentence": "Which articles did the editor file __ without reading them?",
+      "gramm": 1,
+      "note": "Plugged gap blocks parasitic licensing"
+    },
+    {
+      "sentence": "Which report did John review __ before Mary even opened __?",
+      "gramm": 5,
+      "note": "Correct parasitic gap, coordination structure"
+    },
+    {
+      "sentence": "Which report did John review __ before Mary even opened it?",
+      "gramm": 1,
+      "note": "Gap plugged with pronoun"
+    }
+  ],
+  "Norwegian_ParasiticGaps": [
+    {
+      "sentence": "Hvilke artikler arkiverte redaktøren __ uten å lese __?",
+      "gramm": 5,
+      "note": "Korrekt parasittisk gap"
+    },
+    {
+      "sentence": "Hvilke artikler arkiverte redaktøren __ uten å lese dem?",
+      "gramm": 1,
+      "note": "Plugget gap"
+    },
+    {
+      "sentence": "Hvilket dokument vurderte Per __ før Kari åpnet __?",
+      "gramm": 5,
+      "note": "Koordinert struktur med parasittisk gap"
+    },
+    {
+      "sentence": "Hvilket dokument vurderte Per __ før Kari åpnet det?",
+      "gramm": 1,
+      "note": "Plugging med 'det'"
+    }
+  ]
+}

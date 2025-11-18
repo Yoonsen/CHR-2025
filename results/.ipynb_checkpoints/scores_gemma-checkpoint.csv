@@ -1,0 +1,74 @@
+example_id,sentence,lang,prompt,raw_output
+0,Hvilken artikkel kastet du uten å lese,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing is a bit awkward."
+1,Hvilken artikkel kastet du uten å lese den,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese den""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese den""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+2,Hvilken artikkel kastet du den uten å lese,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing is a bit awkward."
+3,Hvilken artikkel kastet du den uten å lese den,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese den""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+4,Which article did you throw away without reading,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb tense and the incomplete sentence."

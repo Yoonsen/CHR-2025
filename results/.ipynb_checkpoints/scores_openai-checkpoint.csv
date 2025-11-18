@@ -1,0 +1,63 @@
+id,lang,sentence,condition,grammatical,source,gpt-4_score
+1a,no,Hvilken artikkel kastet du uten å lese,both open,True,parasitic gaps,5
+1b,no,Hvilken artikkel kastet du uten å lese den,parasitic plugged,True,parasitic gaps,5
+1c,no,Hvilken artikkel kastet du den uten å lese,licensing plugged,False,parasitic gaps,2
+1d,no,Hvilken artikkel kastet du den uten å lese den,both plugged,True,parasitic gaps,1
+1a,en,Which article did you throw away without reading,both open,True,parasitic gaps,5
+1b,en,Which article did you throw away without reading it,parasitic plugged,True,parasitic gaps,4
+1c,en,Which article did you throw it away without reading,licensing plugged,False,parasitic gaps,1
+1d,en,Which article did you throw it away without reading it,both plugged,True,parasitic gaps,1
+2a,no,Hvilket rom ryddet han før han malte,both open,True,parasitic gaps,5
+2b,no,Hvilket rom ryddet han før han malte det,parasitic plugged,True,parasitic gaps,5
+2c,no,Hvilket rom ryddet han det før han malte,licensing plugged,False,parasitic gaps,1
+2d,no,Hvilket rom ryddet han det før han malte det,both plugged,True,parasitic gaps,1
+2a,en,Which room did he clean before painting,both open,True,parasitic gaps,5
+2b,en,Which room did he clean before painting it,parasitic plugged,True,parasitic gaps,5
+2c,en,Which room did he clean it before painting,licensing plugged,False,parasitic gaps,1
+2d,en,Which room did he clean it before painting it,both plugged,True,parasitic gaps,1
+3a,no,Ola er en mann som alle som spiller sjakk med ender opp med å like,both open,True,parasitic gaps,5
+3b,no,Ola er en mann som alle som spiller sjakk med ham ender opp med å like,parasitic plugged,True,parasitic gaps,5
+3c,no,Ola er en mann som alle som spiller sjakk med ender opp med å like ham,licensing plugged,False,parasitic gaps,2
+3d,no,Ola er en mann som alle som spiller sjakk med ham ender opp med å like ham,both plugged,True,parasitic gaps,2
+3a,en,Ola is a man who everyone who plays chess with ends up liking,both open,True,parasitic gaps,5
+3b,en,Ola is a man who everyone who plays chess with him ends up liking,parasitic plugged,True,parasitic gaps,3
+3c,en,Ola is a man who everyone who plays chess with ends up liking him,licensing plugged,False,parasitic gaps,2
+3d,en,Ola is a man who everyone who plays chess with him ends up liking him,both plugged,True,parasitic gaps,2
+rel1,en,The man who has eaten dinner will leave soon,declarative,True,relclause_aux_test_set_fixed,5
+rel2,en,Has the man who eaten dinner will leave soon,Aux1-fronted (ungrammatical),False,relclause_aux_test_set_fixed,1
+rel3,en,Will the man who has eaten dinner leave soon,Aux2-fronted (grammatical),True,relclause_aux_test_set_fixed,5
+rel4,en,The woman who had read the book might go to the library,declarative,True,relclause_aux_test_set_fixed,5
+rel5,en,Had the woman who read the book might go to the library,Aux1-fronted (ungrammatical),False,relclause_aux_test_set_fixed,1
+rel6,en,Might the woman who had read the book go to the library,Aux2-fronted (grammatical),True,relclause_aux_test_set_fixed,5
+rel7,en,The boy who has seen the movie will go home,declarative,True,relclause_aux_test_set_fixed,5
+rel8,en,Has the boy who seen the movie will go home,Aux1-fronted (ungrammatical),False,relclause_aux_test_set_fixed,1
+rel9,en,Will the boy who has seen the movie go home,Aux2-fronted (grammatical),True,relclause_aux_test_set_fixed,5
+rel1,no,Mannen som spiste middag reiste hjem,declarative,True,relclause_wordorder_test_set,5
+rel2,no,Spiste mannen som middag reiste hjem,V1-fronted (ungrammatical),False,relclause_wordorder_test_set,1
+rel3,no,Reiste mannen som spiste middag hjem,V2-fronted (grammatical),True,relclause_wordorder_test_set,2
+rel4,no,Kvinnen som leste boka dro til biblioteket,declarative,True,relclause_wordorder_test_set,5
+rel5,no,Leste kvinnen som boka dro til biblioteket,V1-fronted (ungrammatical),False,relclause_wordorder_test_set,1
+rel6,no,Dro kvinnen som leste boka til biblioteket,V2-fronted (grammatical),True,relclause_wordorder_test_set,2
+rel7,no,Gutten som så filmen gikk hjem,declarative,True,relclause_wordorder_test_set,5
+rel8,no,Så gutten som filmen gikk hjem,V1-fronted (ungrammatical),False,relclause_wordorder_test_set,1
+rel9,no,Gikk gutten som så filmen hjem,V2-fronted (grammatical),True,relclause_wordorder_test_set,5
+atb1,no,Hvem sa du at Kari liker og Per hater,valid,True,atb_test_set,1
+atb2,no,Hva tror du at han tok med seg og la i bilen,valid,True,atb_test_set,5
+atb3,no,Hvilken bok sa hun at hun kjøpte og leste på toget,valid,True,atb_test_set,5
+atb4,no,Hvem sa du at Kari liker Per og hater Marit,invalid,False,atb_test_set,5
+atb5,no,Hva tror du at han tok med seg kameraet og la i bilen,invalid,False,atb_test_set,5
+atb6,no,Hvilken bok sa hun at hun kjøpte og leste avisen på toget,invalid,False,atb_test_set,2
+atb1,en,Who did you say that Kari likes and Per hates,valid,True,atb_test_set,5
+atb2,en,What do you think he brought and placed in the car,valid,True,atb_test_set,5
+atb3,en,Which book did she say she bought and read on the train,valid,True,atb_test_set,5
+atb4,en,Who did you say that Kari likes Per and hates Marit,invalid,False,atb_test_set,4
+atb5,en,What do you think he brought the camera and placed in the car,invalid,False,atb_test_set,2
+atb6,en,Which book did she say she bought and read the newspaper on the train,invalid,False,atb_test_set,2
+lbe1,en,Who do you believe he sold pictures of,complement extraction,True,lbe_test_set,5
+lbe2,en,Who did she say they painted a portrait of,complement extraction,True,lbe_test_set,5
+lbe1,no,Hvem tror du at han solgte bilder av,complement extraction,True,lbe_test_set,5
+lbe2,no,Hvem sa hun at de malte et portrett av,complement extraction,True,lbe_test_set,5
+lbe3,en,Who do you believe pictures of will be on sale,left branch extraction,False,lbe_test_set,2
+lbe4,en,Who did she say portraits of hung in the gallery,left branch extraction,False,lbe_test_set,2
+lbe3,no,Hvem tror du at bilder av vil bli lagt ut for salg,left branch extraction,True,lbe_test_set,1
+lbe4,no,Hvem sa hun at portretter av hang i galleriet,left branch extraction,True,lbe_test_set,1

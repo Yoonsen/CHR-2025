@@ -1,0 +1,480 @@
+example_id,sentence,lang,prompt,raw_output
+1a,Hvilken artikkel kastet du uten å lese,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'm not a native speaker, but I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1 as well.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese""
+
+I'd say 1."
+1b,Hvilken artikkel kastet du uten å lese den,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese den""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'm not a native speaker, but I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1 as well.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du uten å lese den"
+1c,Hvilken artikkel kastet du den uten å lese,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'm not a native speaker, but I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1 as well.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese"
+1d,Hvilken artikkel kastet du den uten å lese den,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese den""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'm not a native speaker, but I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1 as well.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+I'd say 1.
+
+""Hvilken artikkel k"
+1a,Which article did you throw away without reading,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading""
+
+I'm not a native speaker, but I think it's 1.
+
+""Which article did you throw away without reading?""
+
+I'd say 1 as well.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+""Which article did you throw away without reading?""
+
+1.
+
+"
+1b,Which article did you throw away without reading it,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading it""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading it""
+
+I'm not a native speaker, but I think it's 1.
+
+""Which article did you throw away without reading it?""
+
+I'd say 1 as well.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+""Which article did you throw away without reading it?""
+
+1.
+
+"
+1c,Which article did you throw it away without reading,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading""
+
+I'm not a native speaker, but I think it's 1.
+
+""Which article did you throw away without reading?""
+
+I'm not a native speaker, but I think it's 1.
+
+The sentence is grammatically incorrect because the verb ""did"" is conjugated incorrectly. The correct form would be ""which article did you throw away without reading?"" or ""which article did you throw away without reading?"".
+
+In the first example, the sentence should be ""which article did you throw away without reading?"".
+
+In the second example, the sentence should be ""which article did you throw away without reading?"".
+
+Both examples are grammatically correct and have the same meaning.
+
+In summary, the sentence ""which article did you throw away without reading"" is grammatically incorrect and should be corrected to ""which article did you throw away without reading?"" or ""which article did you throw away without reading?"".
+
+The corrected sentence would be:
+
+""Which article did you throw away without reading?""
+
+or
+
+""Which article did you throw away without reading?""
+
+Both examples are grammatically correct and have the same meaning.
+
+In summary, the corrected sentence would be:
+
+""Which article did you throw away without reading?""
+
+or
+
+""Which article did you throw away without reading?""
+
+B"
+1d,Which article did you throw it away without reading it,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading it""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading it""
+
+I'm not sure what the original sentence was supposed to be, but I'm guessing it's supposed to be:
+
+""Which article did you throw away without reading it?""
+
+In that case, it's fully acceptable, so the answer would be 5."
+2a,Hvilket rom ryddet han før han malte,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Han malte rommet etter han ryddet det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Han malte rommet etter han ryddet det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Han malte rommet etter han ryddet det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+"
+2b,Hvilket rom ryddet han før han malte det,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte det""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Han malte rommet etter han hadde ryddet det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Han malte rommet etter han hadde ryddet det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Han malte rommet etter han hadde ryddet det""
+
+The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain."

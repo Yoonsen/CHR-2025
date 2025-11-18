@@ -1,0 +1,887 @@
+example_id,sentence,lang,prompt,raw_output
+0,Hvilken artikkel kastet du uten å lese,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing is a bit awkward."
+1,Hvilken artikkel kastet du uten å lese den,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese den""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du uten å lese den""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+2,Hvilken artikkel kastet du den uten å lese,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing is a bit awkward."
+3,Hvilken artikkel kastet du den uten å lese den,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese den""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken artikkel kastet du den uten å lese den""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+4,Which article did you throw away without reading,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb tense and the incomplete sentence."
+5,Which article did you throw away without reading it,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading it""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw away without reading it""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb tense and the incomplete sentence."
+6,Which article did you throw it away without reading,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb form ""threw"" and the incomplete sentence structure."
+7,Which article did you throw it away without reading it,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading it""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which article did you throw it away without reading it""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb form ""threw"" and the incomplete sentence structure."
+8,Hvilket rom ryddet han før han malte,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+9,Hvilket rom ryddet han før han malte det,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte det""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han før han malte det""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but could be improved. The syntax is correct, but the phrasing could be more concise and the sentence could be broken up into smaller sentences."
+10,Hvilket rom ryddet han det før han malte,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han det før han malte""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han det før han malte""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+11,Hvilket rom ryddet han det før han malte det,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han det før han malte det""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilket rom ryddet han det før han malte det""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but could be improved. The syntax is correct, but the phrasing could be more concise and the sentence could be broken up into smaller sentences."
+12,Which room did he clean before painting,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean before painting""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean before painting""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but it needs a few minor adjustments to make it perfect."
+13,Which room did he clean before painting it,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean before painting it""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean before painting it""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but it has a few errors. The correct sentence is ""Which room did he clean before painting it?"""
+14,Which room did he clean it before painting,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean it before painting""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean it before painting""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are a few errors. The correct sentence is ""Which room did he clean it before painting?"""
+15,Which room did he clean it before painting it,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean it before painting it""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which room did he clean it before painting it""
+
+**Answer:** 3
+
+The sentence has some grammatical errors, but it is mostly understandable. The syntax is correct, but the wording is a bit awkward."
+16,Ola er en mann som alle som spiller sjakk med ender opp med å like,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ender opp med å like""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ender opp med å like""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the wording is a bit colloquial and could be improved."
+17,Ola er en mann som alle som spiller sjakk med ham ender opp med å like,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ham ender opp med å like""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ham ender opp med å like""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the wording is a bit colloquial and could be improved."
+18,Ola er en mann som alle som spiller sjakk med ender opp med å like ham,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ender opp med å like ham""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ender opp med å like ham""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the phrasing is a bit colloquial and could be improved."
+19,Ola er en mann som alle som spiller sjakk med ham ender opp med å like ham,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ham ender opp med å like ham""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola er en mann som alle som spiller sjakk med ham ender opp med å like ham""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the wording is a bit colloquial and could be improved."
+20,Ola is a man who everyone who plays chess with ends up liking,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with ends up liking""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with ends up liking""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the wording is a bit informal and conversational."
+21,Ola is a man who everyone who plays chess with him ends up liking,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with him ends up liking""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with him ends up liking""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the use of the word ""Ola"" is not appropriate in this context."
+22,Ola is a man who everyone who plays chess with ends up liking him,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with ends up liking him""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with ends up liking him""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the use of the phrase ""ends up liking him"" is a bit colloquial."
+23,Ola is a man who everyone who plays chess with him ends up liking him,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with him ends up liking him""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Ola is a man who everyone who plays chess with him ends up liking him""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the use of the phrase ""ends up liking him"" is a bit colloquial."
+24,The man who has eaten dinner will leave soon,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""The man who has eaten dinner will leave soon""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""The man who has eaten dinner will leave soon""
+
+**Answer:** 4
+
+The sentence is grammatically acceptable, but there is a slight awkwardness in the phrasing."
+25,Has the man who eaten dinner will leave soon,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Has the man who eaten dinner will leave soon""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Has the man who eaten dinner will leave soon""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb tense and the incorrect pronoun."
+26,Will the man who has eaten dinner leave soon,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Will the man who has eaten dinner leave soon""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Will the man who has eaten dinner leave soon""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are a few minor errors. The verb ""leave"" is in the future tense, which is correct, but the phrasing ""who has eaten dinner"" is a bit awkward. Overall, the sentence is well-written, but it could be improved."
+27,The woman who had read the book might go to the library,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""The woman who had read the book might go to the library""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""The woman who had read the book might go to the library""
+
+**Answer:** 4
+
+The sentence is grammatically acceptable, but there are some minor issues that could be improved."
+28,Had the woman who read the book might go to the library,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Had the woman who read the book might go to the library""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Had the woman who read the book might go to the library""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically incorrect. The correct version is: ""Had the woman who read the book gone to the library, she would have found many interesting books."""
+29,Might the woman who had read the book go to the library,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Might the woman who had read the book go to the library""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Might the woman who had read the book go to the library""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but there are a few minor issues that could be improved."
+30,The boy who has seen the movie will go home,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""The boy who has seen the movie will go home""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""The boy who has seen the movie will go home""
+
+**Answer:**
+
+__
+
+**Note:** This sentence is grammatically correct, but the syntax could be improved."
+31,Has the boy who seen the movie will go home,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Has the boy who seen the movie will go home""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Has the boy who seen the movie will go home""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb tense and the incorrect pronoun."
+32,Will the boy who has seen the movie go home,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Will the boy who has seen the movie go home""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Will the boy who has seen the movie go home""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are some minor errors. The verb ""go"" is in the future tense, but the tense is not clear. The sentence also lacks a clear subject."
+33,Mannen som spiste middag reiste hjem,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Mannen som spiste middag reiste hjem""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Mannen som spiste middag reiste hjem""
+
+**Answer:**
+
+4
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+34,Spiste mannen som middag reiste hjem,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Spiste mannen som middag reiste hjem""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Spiste mannen som middag reiste hjem""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+35,Reiste mannen som spiste middag hjem,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Reiste mannen som spiste middag hjem""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Reiste mannen som spiste middag hjem""
+
+**Answer:**
+
+4
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+36,Kvinnen som leste boka dro til biblioteket,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Kvinnen som leste boka dro til biblioteket""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Kvinnen som leste boka dro til biblioteket""
+
+**Answer:**
+
+4
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+37,Leste kvinnen som boka dro til biblioteket,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Leste kvinnen som boka dro til biblioteket""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Leste kvinnen som boka dro til biblioteket""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+38,Dro kvinnen som leste boka til biblioteket,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Dro kvinnen som leste boka til biblioteket""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Dro kvinnen som leste boka til biblioteket""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+39,Gutten som så filmen gikk hjem,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Gutten som så filmen gikk hjem""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Gutten som så filmen gikk hjem""
+
+**Answer:**
+
+4
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+40,Så gutten som filmen gikk hjem,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Så gutten som filmen gikk hjem""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Så gutten som filmen gikk hjem""
+
+**Answer:**
+
+4
+
+The sentence is grammatically acceptable, but the phrasing is a bit colloquial."
+41,Gikk gutten som så filmen hjem,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Gikk gutten som så filmen hjem""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Gikk gutten som så filmen hjem""
+
+**Answer:**
+
+4
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+42,Hvem sa du at Kari liker og Per hater,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa du at Kari liker og Per hater""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa du at Kari liker og Per hater""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing is a bit awkward."
+43,Hva tror du at han tok med seg og la i bilen,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hva tror du at han tok med seg og la i bilen""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hva tror du at han tok med seg og la i bilen""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+44,Hvilken bok sa hun at hun kjøpte og leste på toget,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken bok sa hun at hun kjøpte og leste på toget""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken bok sa hun at hun kjøpte og leste på toget""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but there are some minor errors that could be improved."
+45,Hvem sa du at Kari liker Per og hater Marit,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa du at Kari liker Per og hater Marit""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa du at Kari liker Per og hater Marit""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but the phrasing is a bit colloquial and could be improved."
+46,Hva tror du at han tok med seg kameraet og la i bilen,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hva tror du at han tok med seg kameraet og la i bilen""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hva tror du at han tok med seg kameraet og la i bilen""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but the phrasing could be improved."
+47,Hvilken bok sa hun at hun kjøpte og leste avisen på toget,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken bok sa hun at hun kjøpte og leste avisen på toget""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvilken bok sa hun at hun kjøpte og leste avisen på toget""
+
+**Answer:**
+
+__4__
+
+The sentence is grammatically acceptable, but there are some minor errors that could be improved."
+48,Who did you say that Kari likes and Per hates,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did you say that Kari likes and Per hates""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did you say that Kari likes and Per hates""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but it could be improved. The syntax is correct, but the wording is a bit awkward."
+49,What do you think he brought and placed in the car,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""What do you think he brought and placed in the car""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""What do you think he brought and placed in the car""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but it needs a few minor adjustments to make it more clear and concise."
+50,Which book did she say she bought and read on the train,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which book did she say she bought and read on the train""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which book did she say she bought and read on the train""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are a few minor errors. The correct sentence is: ""Which book did she say she bought and read on the train?"""
+51,Who did you say that Kari likes Per and hates Marit,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did you say that Kari likes Per and hates Marit""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did you say that Kari likes Per and hates Marit""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb conjugation ""hates"" and the improper punctuation."
+52,What do you think he brought the camera and placed in the car,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""What do you think he brought the camera and placed in the car""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""What do you think he brought the camera and placed in the car""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are a few errors. The correct sentence is: ""What do you think he brought the camera and placed in the car?"""
+53,Which book did she say she bought and read the newspaper on the train,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which book did she say she bought and read the newspaper on the train""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Which book did she say she bought and read the newspaper on the train""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are a few minor errors. The correct sentence is:
+
+""Which book did she say she bought and read the newspaper on the train?""
+
+**Answer:** 3"
+54,Who do you believe he sold pictures of,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who do you believe he sold pictures of""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who do you believe he sold pictures of""
+
+__
+
+The answer is 3.
+
+The sentence has some grammatical errors, but it is mostly understandable. The syntax is a bit awkward, but the meaning is clear."
+55,Who did she say they painted a portrait of,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did she say they painted a portrait of""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did she say they painted a portrait of""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but it could be improved. The syntax is a bit awkward, and the wording could be more concise."
+56,Hvem tror du at han solgte bilder av,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem tror du at han solgte bilder av""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem tror du at han solgte bilder av""
+
+The answer is: 3
+
+The sentence is grammatically acceptable, but it could be improved. The syntax is correct, but the phrasing is a bit awkward."
+57,Hvem sa hun at de malte et portrett av,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa hun at de malte et portrett av""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa hun at de malte et portrett av""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but it could be improved. The syntax is correct, but the phrasing could be more concise and the sentence could be broken up into smaller sentences."
+58,Who do you believe pictures of will be on sale,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who do you believe pictures of will be on sale""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who do you believe pictures of will be on sale""
+
+**Answer:** 2
+
+The sentence has some grammatical errors, such as the incorrect verb ""pictures"" and the incomplete sentence structure."
+59,Who did she say portraits of hung in the gallery,English,"The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did she say portraits of hung in the gallery""","The following sentence is in English.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Who did she say portraits of hung in the gallery""
+
+**Answer:** 3
+
+The sentence is grammatically acceptable, but there are a few errors. The correct sentence is: ""Who did she say portraits of hung in the gallery?"""
+60,Hvem tror du at bilder av vil bli lagt ut for salg,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem tror du at bilder av vil bli lagt ut for salg""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem tror du at bilder av vil bli lagt ut for salg""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but there are some minor errors that could be improved."
+61,Hvem sa hun at portretter av hang i galleriet,Norwegian,"The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa hun at portretter av hang i galleriet""","The following sentence is in Norwegian.
+Rate its grammatical acceptability from 1 (completely unacceptable) to 5 (fully acceptable).
+Answer with a **single digit** from 1 to 5. **Do not explain. Only write the digit.**
+
+""Hvem sa hun at portretter av hang i galleriet""
+
+**Answer:**
+
+__3__
+
+The sentence is grammatically acceptable, but the phrasing is a bit awkward."

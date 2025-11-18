@@ -1,0 +1,75 @@
+keyword,code,sentence,tense
+organization,lp-e-b,You donated money to UNICEF because you believed in them.,past
+organization,lp-e-0,Which organization did you donate money to because you believed in?,past
+organization,lp-e-2,Which organization did you donate money to because you believed in it?,past
+organization,lp-e-1,Which organization did you donate money to it because you believed in?,past
+organization,lp-e-3,Which organization did you donate money to it because you believed in it?,past
+,,,
+organization,lp-n-2,Hvilken organisasjon donerte du penger til fordi du trodde på den?,past
+organization,lp-n-1,Hvilken organisasjon donerte du penger til den fordi du trodde på?,past
+organization,lp-n-3,Hvilken organisasjon donerte du penger til den fordi du trodde på den?,past
+organization,lp-n-0,Hvilken organisasjon donerte du penger til fordi du trodde på?,past
+organization,lp-n-b,Du donerte penger til Frelsesarmeen fordi du trodde på den.,past
+,,,
+,,,
+cod,lp-e-0,Which type of cod did John weigh before slaying?,inf
+cod,lp-e-1,Which type of cod did John weigh it before slaying?,inf
+cod,lp-e-3,Which type of cod did John weigh it before slaying it?,inf
+cod,lp-e-2,Which type of cod did John weigh before slaying it?,inf
+cod,lp-e-b,John weighed this type of cod before slaying it.,inf
+,,,
+cod,lp-n-0,Hva slags torsk pleier Ola å veie for å gjette vekten av?,inf
+cod,lp-n-2,Hva slags torsk pleier Ola å veie for å gjette vekten av den?,inf
+cod,lp-n-1,Hva slags torsk pleier Ola å veie den for å gjette vekten av?,inf
+cod,lp-n-3,Hva slags torsk pleier Ola å veie den for å gjette vekten av den?,inf
+cod,lp-n-b,Ola pleier å veie denne type torsk for å gjette vekten av den.,inf
+,,,
+,,,
+,,,
+dog,pl-e-0,The German Shepherd is exactly the kind of dog which everyone who owns often takes to the vet.,
+dog,pl-e-1,The German Shepherd is exactly the kind of dog which everyone who owns it often takes to the vet.,
+dog,pl-e-3,The German Shepherd is exactly the kind of dog which everyone who owns it often takes it to the vet.,
+dog,pl-e-2,The German Shepherd is exactly the kind of dog which everyone who owns often takes it to the vet.,
+dog,pl-e-b,Everyone who owns a German Shepherd often takes it to the vet.,
+,,,
+dog,pl-n-0,Border collien er akkurat den type hund som alle som eier tar med til veterinæren.,
+dog,pl-n-1,Border collien er akkurat den type hund som alle som eier den tar med til veterinæren.,
+dog,pl-n-2,Border collien er akkurat den type hund som alle som eier tar den med til veterinæren.,
+dog,pl-n-3,Border collien er akkurat den type hund som alle som eier den tar den med til veterinæren.,
+dog,pl-n-b,Alle som eier en Border Collie tar den med til veterinæren.,
+,,,
+problem,pl-e-0,This is a problem that everyone who studies spends hours trying to solve.,
+problem,pl-e-1,This is a problem that everyone who studies it spends hours trying to solve.,
+problem,pl-e-2,This is a problem that everyone who studies spends hours trying to solve it.,
+problem,pl-e-3,This is a problem that everyone who studies it spends hours trying to solve it.,
+problem,pl-e-b,Everyone who studies it spends hours trying to solve it.,
+,,,
+problem,pl-n-0,Det her er et problem som alle som studerer tilbringer timer med å løse.,
+problem,pl-n-1,Det her er et problem som alle som studerer det tilbringer timer med å løse.,
+problem,pl-n-2,Det her er et problem som alle som studerer tilbringer timer med å løse det.,
+problem,pl-n-3,Det her er et problem som alle som studerer det tilbringer timer med å løse det.,
+problem,pl-n-b,Alle som studerer det her problemet tilbringer timer med å løse det.,
+,,,
+,,,
+,,,
+war,lp-n-0,Hvem fortalte du om krigen uten å vite var sjøfolk.,inf
+war,lp-n-2,Hvem fortalte du om krigen uten å vite de var sjøfolk.,inf
+war,lp-n-1,Hvem fortalte du dem om krigen uten å vite var sjøfolk.,inf
+war,lp-n-3,Hvem fortalte du dem om krigen uten å vite de var sjøfolk.,inf
+war,lp-n-b,Du fortalte dem om krigen uten å vite de var sjøfolk.,inf
+,,,
+war,lp-e-0,Who did you tell about the war without knowing were veterans.,inf
+war,lp-e-2,Who did you tell about the war without knowing they were veterans.,inf
+war,lp-e-1,Who did you tell them about the war without knowing were veterans.,inf
+war,lp-e-3,Who did you tell them about the war without knowing they were veterans.,inf
+war,lp-e-b,You told them about the war without knowing they were veterans.,inf
+stretch,pl-n-0,Her er himmelen mannen som ville klippe opp prøver å knuse i tusen biter.,
+stretch,pl-n-1,Her er himmelen mannen som ville klippe den opp prøver å knuse i tusen biter.,
+stretch,pl-n-2,Her er himmelen mannen som ville klippe opp prøver å knuse den i tusen biter.,
+stretch,pl-n-3,Her er himmelen mannen som ville klippe den opp prøver å knuse den i tusen biter.,
+stretch,pl-n-b,Mannen som ville klippe opp himmelen prøver å knuse den i tusen biter.,
+stretch,pl-e-0,This is the sky which the man who would cut up tries to shatter into pieces.,
+stretch,pl-e-1,This is the sky which the man who would cut it up tries to shatter into pieces.,
+stretch,pl-e-2,This is the sky which the man who would cut up tries to shatter it into pieces.,
+stretch,pl-e-3,This is the sky which the man who would cut it up tries to shatter it into pieces.,
+stretch,pl-e-b,The man who would cut up the sky tries to shatter it into pieces.,
