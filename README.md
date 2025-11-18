@@ -1,9 +1,8 @@
 # CHR-2025 — Grammaticality Judgments in Humans and Language Models
 
-Code, data and results for the short paper:
+Code, data and results for manuscript:
 
 **_Grammaticality Judgments in Humans and Language Models: Revisiting Generative Grammar with LLMs_**  
-(submitted to CHR 2025)
 
 The project tests whether large language models (LLMs) reproduce classic grammaticality contrasts in ways that suggest sensitivity to **hierarchical syntactic structure**, rather than linear order alone. We focus on:
 
