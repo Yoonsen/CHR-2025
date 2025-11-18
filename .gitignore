@@ -1,2 +1,22 @@
 notebooks/.ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+# Jupyter
+**/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+
+# Virtualenvs
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+
+# Data du ikke vil ha i repo senere (om aktuelt)
+# data/*.xlsx
+# results/*.xlsx
